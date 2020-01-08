@@ -12,8 +12,6 @@
 <script src="<?= base_url('assets/js/notie/notie.js') ?>"></script>
 <script>
   $(document).ready(function() {
-    notie.alert(1, '<i class="fa fa-check"></i> Login Success..!!', 2);
-
     // loadProgress
     Ladda.bind('.ladda-logins', {
       callback: function(instance) {
