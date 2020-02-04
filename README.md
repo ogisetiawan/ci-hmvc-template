@@ -10,4 +10,5 @@
 - Modular HMVC
 - Bcrypt
 - DOMPDF
+- PHP Excel
 - Multilanguage Indonesia - English
